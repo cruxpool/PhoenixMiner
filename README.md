@@ -95,6 +95,11 @@ pause
 PhoenixMiner.exe -pool eth.f2pool.com:8008 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
 pause
 ```
+### Ethereum - cruxpool.com
+```batch
+PhoenixMiner.exe -pool eth.cruxpool.com:5555 -wal 0x1a0e2c4cd699cee12672adc223fdb30b93253eba -worker Rig1 -pass x -log 0 -tt 75 -tstop 85 -tstart 70 -fanmin 30 -Rmode 1 -fret 1 -rate 1 -coin eth
+pause
+```
 
 **Note**
 
